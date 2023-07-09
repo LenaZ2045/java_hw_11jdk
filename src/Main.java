@@ -11,6 +11,5 @@ public class Main {
         System.out.println(subtract);
         System.out.println(multiply);
         System.out.println(divide);
-
     }
 }
